@@ -1,3 +1,3 @@
 # safewayz
 
-mobile app project for personal safety test
+mobile app project for personal safety
